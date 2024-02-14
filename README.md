@@ -7,4 +7,5 @@ Things to make sure of...
 - Don't mess with the code (unless you want it to break)
 
 Hide files from friends, parents, teachers, whoever :D
- 
+
+Default Password is: 123
