@@ -1,4 +1,4 @@
-set password=1306
+set password=123
 ::change     ^^^^^^^^^^^^^      to change password - dont add any spaces
 
 
@@ -253,7 +253,7 @@ cls
 tree C:
 echo.
 if EXIST "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}" goto UNLOCK
-md ...
+md ooo
 echo %ESC%[92mFolder "ooo" created successfully%ESC%[0m
 echo.
 echo I will only lock the 'ooo'  folder so DO NOT change the name
